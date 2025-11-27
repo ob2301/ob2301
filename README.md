@@ -7,7 +7,7 @@ I build AI systems, data pipelines, and research-driven ML tools that solve real
 
 ## 🧠 About Me
 - 🔬 **AI/ML Researcher** building tooling, datasets ingestion & evaluation pipelines for Time-Series Foundation Models
-- ❤️ Excited to work on the **Patient Monitoring Solution at Philips** during my Co-op, where my knowledge and work will directly improve patient outcomes and quality of care  
+- ❤️ Excited to work on the **Patient Monitoring Solution at Philips** during my Co-op, where my knowledge and work will directly improve patient outcomes!  
 - 🏋️‍♂️ Dedicated to **bodybuilding and fitness**, focusing on discipline and self-improvement with a goal to compete one day!
 - 🇷🇺 Actively learning **Russian**, and pursuing it as a secondary major at UMass  
 - ☕ Always open to talking about AI research, health, languages, or building meaningful technology in the era of AI!

@@ -1,6 +1,6 @@
 # Hey, I'm Omar 👋
 
-**CS Honors @ UMass Amherst • AI/ML Researcher (TSFMs) • Incoming SDE Intern @ Philips**  
+**CS Honors @ UMass Amherst • AI/ML Researcher (Time-Series focused) • Incoming SDE Intern @ Philips**  
 I build AI systems, data pipelines, and research-driven ML tools that solve real problems with clarity and strong engineering.
 
 ---
